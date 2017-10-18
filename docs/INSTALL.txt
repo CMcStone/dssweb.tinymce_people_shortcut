@@ -1,0 +1,4 @@
+dssweb.tinymce-people-shortcut Installation
+-------------------------------------------------
+
+See README.md
