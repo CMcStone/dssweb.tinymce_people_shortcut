@@ -3,7 +3,7 @@ class PeopleShortcut(object):
 
     # This time we don't bother with i18n and assume
     # the whole world understands English
-    title = u'People'
+    title = u'people'
 
     # Portal root relative path
     link = "/people"
